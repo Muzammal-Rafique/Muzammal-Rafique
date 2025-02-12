@@ -1,3 +1,4 @@
+<!-- This is a hidden comment -->
 # 👋 Hi, I'm Muzammal Rafique!
 
 🎓 **Graduated in IT (2023) from GCUF**  
