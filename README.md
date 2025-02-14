@@ -32,7 +32,6 @@ A **Next.js-powered eCommerce platform** showcasing the latest **Nike shoe colle
 
 ## 📈 GitHub Stats
 
-![Muzammal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muzammal-Rafique&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muzammal-Rafique&layout=compact&theme=dark)
 
 ## 📫 Connect with Me
