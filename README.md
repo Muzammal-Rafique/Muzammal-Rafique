@@ -10,7 +10,7 @@
 ### 🌐 Frontend Development
 - React ⚛️ | Next.js 14 🚀
 - HTML5 & CSS3 🎨 | JavaScript & TypeScript 📜
-- Tailwind CSS 💨 | ShadCN-UI 🎭 | Radix-UI 🏗️ | DaisyUI 🌼| Bootstrap 🅱️
+- Tailwind CSS 💨 | Shadcn/ui 🎭 | Radix-UI 🏗️ | DaisyUI 🌼| Bootstrap 🅱️
 
 ### 🛠 Backend & Database
 - Express.js 🚀 | MongoDB 🍃
